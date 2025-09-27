@@ -6,3 +6,4 @@ Nuestro primer proyecto en equipo.
 - Julian Salamanca
 - Jose Milciades Ordoñez
 - Juan Sebastian Orozco
+- Holman Sanchez 
