@@ -1,2 +1,4 @@
-# taller-colaborativo
-Nuestro primer proyecto en equipo
+# Taller Colaborativo
+Nuestro primer proyecto en equipo.
+
+## Participantes:
