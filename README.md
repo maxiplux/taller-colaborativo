@@ -1,5 +1,5 @@
 # Taller Colaborativo
-Nuestro primer proyecto en equipo.
+Taller magnifico
 
 ## Participantes:
 - Juan Mosquera
